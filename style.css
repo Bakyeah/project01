@@ -14,9 +14,14 @@
 .links{
     margin-right: 100px;
     color: #E5E7Eb;
+    padding: 5px;
     
     
 }
+#oo{
+    padding: 5px;
+}
+
 .tit{
     display:flex;
     
