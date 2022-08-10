@@ -1,2 +1,1 @@
-# project01
-the first landing page
+landing page for my first project
